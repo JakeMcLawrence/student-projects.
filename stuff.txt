@@ -1,1 +1,5 @@
+nano stuff.txt
+^X
+
+
 
